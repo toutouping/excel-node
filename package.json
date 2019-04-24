@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "fs": "^0.0.1-security",
+    "node-xlsx": "^0.14.1",
+    "xml2js": "^0.4.19"
+  },
+  "name": "excel-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
